@@ -24,4 +24,4 @@ python3 src/query -a "Steely Dan" -w "cousin"
 | `-a` or `--artist` | Name of the artist to query the songs of. | - |
 | `-w` or `--query_word` | The seed word to base the semantic query on. | - |
 | `-k` or `--k_expansion` | Number of termas most similar to the seed term to include in the query. | `10` |
-| --print_songs | Flag to indicate whether the names of the songs should be printed. | `False` |
+| `--print_songs` | Flag to indicate whether the names of the songs should be printed. | `False` |
