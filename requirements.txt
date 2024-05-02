@@ -2,3 +2,4 @@ numpy==1.26.2
 gensim==4.3.2
 pandas==2.2.0
 thefuzz==0.22.1
+codecarbon==2.3.5
