@@ -29,7 +29,7 @@ pip install -r requirements.txt
 You can query songs by using the `src/query.py` command line interface for checking how many songs of a given artist contain a keyword or closesly related word.
 
 ```bash
-python3 src/query -a "Steely Dan" -w "cousin"
+python3 src/query.py -a "Steely Dan" -w "cousin"
 ```
 ```
 The most similar terms are the following: cousin, nephew, brother, son, uncle, eldest, grandson, daughter, father, grandfather, niece
