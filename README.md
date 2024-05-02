@@ -71,3 +71,5 @@ These are:
 
 > Additionally the script will produce csv files with the CO2 emissions of the substasks in the code (`emissions/`).
 > This is necessary for Assignment 5, and is not directly relevant to this assignment.
+
+> Note: The `emissions/emissions.csv` file should be ignored. This is due to the fact, that codecarbon can't track process and task emissions at the same time.
