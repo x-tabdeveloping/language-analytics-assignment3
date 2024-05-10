@@ -73,3 +73,8 @@ These are:
 > This is necessary for Assignment 5, and is not directly relevant to this assignment.
 
 > Note: The `emissions/emissions.csv` file should be ignored. This is due to the fact, that codecarbon can't track process and task emissions at the same time.
+
+## Potential Limitations
+
+It would be good to know how the number of expansion terms affect results and to which extent the pipeline is sensitive to this parameter.
+Systematic evaluations might give us more information about the implications of setting higher or lower values.
